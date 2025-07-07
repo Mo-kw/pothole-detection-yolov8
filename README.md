@@ -33,8 +33,9 @@ The goal is to build a robust pothole detection system by:
 ## Dataset
 The dataset is sourced from [Roboflow](https://universe.roboflow.com/), containing annotated pothole images.
 
-## License
-Specify your license here (e.g., MIT License)
+## Note
+This project is shared for educational and learning purposes. Feel free to explore and learn from the code!
+
 
 ---
 
