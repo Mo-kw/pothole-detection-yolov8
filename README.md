@@ -33,6 +33,9 @@ The goal is to build a robust pothole detection system by:
 ## Dataset
 The dataset is sourced from [Roboflow](https://universe.roboflow.com/), containing annotated pothole images.
 
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mo-kw/pothole-detection-yolov8/blob/main/pothole_detection.ipynb)
+
 ## Note
 This project is shared for educational and learning purposes. Feel free to explore and learn from the code!
 
